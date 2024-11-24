@@ -1,5 +1,6 @@
 Honeypot的第一个github项目
-
+https://github.com/honeypotlay
+我的Gitee主业https://gitee.com/bierlan
 第一次弄凑合着看吧。
 
 总有一场相遇是互相喜欢
@@ -18,9 +19,7 @@ Honeypot的第一个github项目
 
 
  欢迎来到我的Gitee主业，一起来写代码吧 ᖰ⌯'▾'⌯ᖳ 飞鸟云防失联发布页：
-
-https://github.com/feiniaoyun
-
+豆豆加速器提供的外区apple id:https://share.doudoujsq.com/
 飞鸟云最新国内免翻网址,用手机流量访问：(2024/10/01更新)
 
 https://fn1.170809.xyz
